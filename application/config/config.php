@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://tudominio';
+$config['base_url']	= 'https://osfortics.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
